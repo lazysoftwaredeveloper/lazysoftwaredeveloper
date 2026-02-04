@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there，this is HytaleTools 👋
+
+HytaleTools is an all-in-one tools and data project for the **Hytale** community.
+
+🌐 https://hytaletools.io A growing **Hytale Items Database**, built to make in-game data easier to explore and reference.
+
 
 <!--
 **hytaletools/hytaletools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
