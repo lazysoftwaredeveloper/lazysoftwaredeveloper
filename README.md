@@ -2,7 +2,9 @@
 
 HytaleTools is an all-in-one tools and data project for the **Hytale** community.
 
-🌐 https://hytaletools.io A growing **Hytale Items Database**, built to make in-game data easier to explore and reference.
+🌐 https://hytaletools.io 
+
+A growing **Hytale Items Database**, built to make in-game data easier to explore and reference.
 
 
 <!--
