@@ -1,14 +1,15 @@
-## Hi there，this is HytaleTools 👋
+## Hi there, I'm a **Lazy** Product Developer 👋
 
-HytaleTools is an all-in-one tools and data project for the **Hytale** community.
+They say "pick a lazy person to do a hard job because they will find an easy way to do it." That's me. I build tools so I can spend more time doing... well, nothing.
 
-🌐 https://hytaletools.io 
+### 🚀 What I'm currently building
 
-A growing **Hytale Items Database**, built to make in-game data easier to explore and reference.
+- [Hytale Items Database](https://hytaletools.io): An all-in-one data powerhouse for the **Hytale** community. I got tired of searching for item stats manually, so I built a database to do it for me. 
+- [Meditation Timer Online](https://meditationtimeronline.org): A minimalist, zero-friction timer for mindfulness. Because I'm even too lazy to deal with complex meditation apps.
 
 
 <!--
-**hytaletools/hytaletools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lazyproductdeveloper/lazyproductdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
