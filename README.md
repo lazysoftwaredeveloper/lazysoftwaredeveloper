@@ -5,8 +5,8 @@ They say "pick a lazy person to do a hard job because they will find an easy way
 ### 🚀 What I'm currently building
 
 - [Hytale Items Database](https://hytaletools.io): An all-in-one data powerhouse for the **Hytale** community. I got tired of searching for item stats manually, so I built a database to do it for me. 
-- [Meditation Timer Online](https://meditationtimeronline.org): A minimalist, zero-friction timer for mindfulness. Because I'm even too lazy to deal with complex meditation apps.
-
+- [Kingdom of Marionettes Online](https://kingdomofmarionettes.online): A website about the game Kingdom of Marionettes, and provide link to online demo.
+- [Zombies and Luig](https://zombiesandluig.com): A website about the game Zombies and Luig, provides link to the itch.io online game and some tips and videos about the game.
 
 <!--
 **lazyproductdeveloper/lazyproductdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
