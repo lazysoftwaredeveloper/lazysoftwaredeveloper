@@ -8,6 +8,8 @@ They say "pick a lazy person to do a hard job because they will find an easy way
 - [Kingdom of Marionettes Online](https://kingdomofmarionettes.online): A website about the game Kingdom of Marionettes, and provide link to online demo.
 - [Zombies and Luig](https://zombiesandluig.com): A website about the game Zombies and Luig, provides link to the itch.io online game and some tips and videos about the game.
 
+Visit https://lazysoftwaredeveloper.github.io/ for more details.
+
 <!--
 **lazyproductdeveloper/lazyproductdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
