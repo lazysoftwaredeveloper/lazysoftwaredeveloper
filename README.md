@@ -9,6 +9,8 @@ They say "pick a lazy person to do a hard job because they will find an easy way
 - [Zombies and Luig](https://zombiesandluig.com): A website about the game Zombies and Luig, provides link to the itch.io online game and some tips and videos about the game.
 - [Arrows Puzzle Escape](https://arrowspuzzleescape.com) A minimalist logic puzzle game where your goal is to remove each arrow in the correct order so it can escape without collisions.
 - [Scritchy Scratchy](https://scritchyscratchy.online) : A super-satisfying scratch card idle game where you buy stacks of scratch-offs, unlock auto-scratching, and chase massive jackpots.
+- [SBIT Avatar](https://sbitavatar.com/): A focused avatar generator that turns SBIT personality style into a distinct visual identity.
+
 
 Visit https://lazysoftwaredeveloper.github.io/ for more details.
 
