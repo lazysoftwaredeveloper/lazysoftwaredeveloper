@@ -10,6 +10,7 @@ They say "pick a lazy person to do a hard job because they will find an easy way
 - [Arrows Puzzle Escape](https://arrowspuzzleescape.com) A minimalist logic puzzle game where your goal is to remove each arrow in the correct order so it can escape without collisions.
 - [Scritchy Scratchy](https://scritchyscratchy.online) : A super-satisfying scratch card idle game where you buy stacks of scratch-offs, unlock auto-scratching, and chase massive jackpots.
 - [SBIT Avatar](https://sbitavatar.com/): A focused avatar generator that turns SBIT personality style into a distinct visual identity.
+- [Is Claude Nerfed?](https://is-claude-nerfed.com/): A simple checker to see if Claude Code is currently in peak-hour limits in your timezone.
 
 
 Visit https://lazysoftwaredeveloper.github.io/ for more details.
