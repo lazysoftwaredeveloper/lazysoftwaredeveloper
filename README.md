@@ -11,7 +11,7 @@ They say "pick a lazy person to do a hard job because they will find an easy way
 - [Scritchy Scratchy](https://scritchyscratchy.online) : A super-satisfying scratch card idle game where you buy stacks of scratch-offs, unlock auto-scratching, and chase massive jackpots.
 - [SBIT Avatar](https://sbitavatar.com/): A focused avatar generator that turns SBIT personality style into a distinct visual identity.
 - [Is Claude Nerfed?](https://is-claude-nerfed.com/): A simple checker to see if Claude Code is currently in peak-hour limits in your timezone.
-
+- [Dicero Guides](https://diceroguides.com): Comprehensive guides and strategies for popular dice games. Master your favorite dice games with detailed tutorials and expert tips.
 
 Visit https://lazysoftwaredeveloper.github.io/ for more details.
 
